@@ -1,5 +1,3 @@
 //#!/usr/bin/node
-//jshint esversion:6
-
-let header = document.querySelector('header');
+let header = document.querySelector('HEADER');
 header.style.color = "#FF0000";
